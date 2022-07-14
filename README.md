@@ -11,11 +11,11 @@ Este conjunto de datos contiene información de los datos reportados por las Pro
 Esta información esta sujeta a la cantidad de casos que hubo por mes de cada uno de los delitos con su respectivo información relacionada
 
 ## Vista del desarrollo
-![Image text](.\images\SeriesTiempo.png)
-![Image text](.\images\Mapa.png)
-![Image text](.\images\MapaCuadro.png)
-![Image text](.\images\MapaCuadroGto.png)
-![Image text](.\images\Barras.png)
+![Image text](https://raw.githubusercontent.com/isaiguti/Demo-Day-Analisis-de-Datos-con-Python/main/images/SeriesTiempo.png)
+![Image text](https://raw.githubusercontent.com/isaiguti/Demo-Day-Analisis-de-Datos-con-Python/main/images/Mapa.png)
+![Image text](https://raw.githubusercontent.com/isaiguti/Demo-Day-Analisis-de-Datos-con-Python/main/images/MapaCuadro.png)
+![Image text](https://raw.githubusercontent.com/isaiguti/Demo-Day-Analisis-de-Datos-con-Python/main/images/MapaCuadroGto.png)
+![Image text](https://raw.githubusercontent.com/isaiguti/Demo-Day-Analisis-de-Datos-con-Python/main/images/Barras.pngBarras.png)
 
 ## Requerimientos 
 
