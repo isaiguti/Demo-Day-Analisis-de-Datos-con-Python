@@ -15,7 +15,7 @@ Esta información esta sujeta a la cantidad de casos que hubo por mes de cada un
 ![Image text](https://raw.githubusercontent.com/isaiguti/Demo-Day-Analisis-de-Datos-con-Python/main/images/Mapa.png)
 ![Image text](https://raw.githubusercontent.com/isaiguti/Demo-Day-Analisis-de-Datos-con-Python/main/images/MapaCuadro.png)
 ![Image text](https://raw.githubusercontent.com/isaiguti/Demo-Day-Analisis-de-Datos-con-Python/main/images/MapaCuadroGto.png)
-![Image text](https://raw.githubusercontent.com/isaiguti/Demo-Day-Analisis-de-Datos-con-Python/main/images/Barras.pngBarras.png)
+![Image text](https://raw.githubusercontent.com/isaiguti/Demo-Day-Analisis-de-Datos-con-Python/main/images/Barras.png)
 
 ## Requerimientos 
 
